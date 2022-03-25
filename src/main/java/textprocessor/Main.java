@@ -1,9 +1,11 @@
+package textprocessor;
+
 import evnet.ExampleEvent;
 import jakarta.enterprise.event.Observes;
-import org.jboss.weld.Container;
 import org.jboss.weld.environment.se.Weld;
 import org.jboss.weld.environment.se.WeldContainer;
 import org.jboss.weld.environment.se.events.ContainerInitialized;
+import textprocessor.TextApplication;
 
 import java.io.IOException;
 

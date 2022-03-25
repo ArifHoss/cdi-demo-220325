@@ -1,3 +1,5 @@
+package textprocessor;
+
 import jakarta.inject.Inject;
 
 import java.io.BufferedReader;

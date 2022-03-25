@@ -5,8 +5,8 @@
        bean-discovery-mode="all">
 
     <alternatives>
-<!--        <class>UpperCaseTextProcessor</class>-->
-<!--        <class>LowerCaseTextProcessor</class>-->
-        <class>ReverseTestProcessor</class>
+        <class>textprocessor.UpperCaseTextProcessor</class>
+<!--        <class>textprocessor.LowerCaseTextProcessor</class>-->
+<!--        <class>textprocessor.ReverseTestProcessor</class>-->
     </alternatives>
 </beans>

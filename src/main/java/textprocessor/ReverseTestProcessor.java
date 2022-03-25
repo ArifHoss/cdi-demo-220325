@@ -1,3 +1,5 @@
+package textprocessor;
+
 import jakarta.enterprise.inject.Alternative;
 
 @Alternative
